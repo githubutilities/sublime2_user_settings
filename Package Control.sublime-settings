@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Alignment",
 		"Autoprefixer",
 		"CoffeeAngular Syntax",
 		"CoffeeCompile",
@@ -10,7 +11,6 @@
 		"Http Requester",
 		"JavaScript Snippets",
 		"Nettuts+ Fetch",
-		"SublimeLinter",
-		"SublimeLinter-coffee"
+		"SublimeLinter"
 	]
 }
