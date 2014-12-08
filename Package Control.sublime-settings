@@ -7,10 +7,13 @@
 		"CoffeeAngular Syntax",
 		"CoffeeCompile",
 		"CoffeeComplete Plus (Autocompletion)",
+		"ConvertToUTF8",
 		"Emmet",
+		"GBK Encoding Support",
 		"Http Requester",
 		"JavaScript Snippets",
 		"Nettuts+ Fetch",
+		"Package Control",
 		"SublimeLinter"
 	]
 }
