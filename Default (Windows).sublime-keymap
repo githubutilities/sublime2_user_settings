@@ -1,2 +1,5 @@
 [
+	 {
+	 	"keys": ["alt+s"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"}
+	 }
 ]

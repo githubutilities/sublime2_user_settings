@@ -1,6 +1,7 @@
 {
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+	"font_size": 10,
 	"ignored_packages":
 	[
 	]

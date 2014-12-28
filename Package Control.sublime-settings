@@ -1,4 +1,14 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2",
+		"select-windows",
+		"ssl-windows"
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -9,9 +19,10 @@
 		"CoffeeComplete Plus (Autocompletion)",
 		"ConvertToUTF8",
 		"Emmet",
-		"GBK Encoding Support",
 		"Http Requester",
 		"JavaScript Snippets",
+		"Markdown Preview",
+		"MarkdownEditing",
 		"Nettuts+ Fetch",
 		"Package Control",
 		"SublimeAStyleFormatter",
