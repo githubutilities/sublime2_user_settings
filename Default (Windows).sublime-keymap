@@ -1,5 +1,14 @@
 [
-	 {
-	 	"keys": ["alt+s"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"}
-	 }
+	// markdown preview keyboard binding
+	{
+		"keys": ["alt+d"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"}
+	},
+	// markdown slideshow keyboard binding
+	{
+		"keys": ["alt+s"], "command": "markdown_slideshow"
+	},
+	// View in Browser: keyboard binding for Chrome
+	{
+		"keys": [ "ctrl+alt+c" ], "command": "view_in_browser", "args": { "browser": "chrome" }
+	}
 ]

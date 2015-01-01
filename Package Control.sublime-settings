@@ -22,10 +22,14 @@
 		"Http Requester",
 		"JavaScript Snippets",
 		"Markdown Preview",
+		"Markdown Slideshow",
 		"MarkdownEditing",
 		"Nettuts+ Fetch",
 		"Package Control",
+		"Pandoc (Markdown)",
+		"SmartMarkdown",
 		"SublimeAStyleFormatter",
-		"SublimeLinter"
+		"SublimeLinter",
+		"View In Browser"
 	]
 }
