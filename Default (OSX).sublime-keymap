@@ -1,2 +1,16 @@
 [
+	// markdown preview keyboard binding
+	{
+		"keys": ["alt+d"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"}
+	},
+	// View in Browser: keyboard binding for Chrome
+	{
+		"keys": [ "ctrl+alt+c" ], "command": "view_in_browser", "args": { "browser": "chrome" }
+	},
+	{
+		"keys": ["super+shift+t"], "command": "open_terminal" 
+	},
+	{ 
+		"keys": ["super+shift+ctrl+c"], "command": "open_terminal_project_folder" 
+	}
 ]
