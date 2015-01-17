@@ -1,0 +1,25 @@
+**Version 0.1
+ - AdvancedNewFile
+ - Alignment
+ - Autoprefixer
+ - CoffeeAngular Syntax
+ - CoffeeCompile
+ - CoffeeComplete Plus (Autocompletion)
+ - ConvertToUTF8
+ - EclipseJavaFormatter
+ - Emmet
+ - Git
+ - Http Requester
+ - JavaScript Snippets
+ - Markdown Preview
+ - Markdown Slideshow
+ - MarkdownEditing
+ - Nettuts+ Fetch
+ - Package Control
+ - Pandoc (Markdown)
+ - Shell Turtlestein
+ - SmartMarkdown
+ - SublimeAStyleFormatter
+ - SublimeLinter
+ - Terminal
+ - View In Browse
