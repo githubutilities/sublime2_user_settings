@@ -2,6 +2,9 @@
 	"auto_complete_commit_on_tab": true,
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"font_size": 10,
+	// disable auto reopen previous tabs, folders and files
+	"remember_open_files": false,
+	"hot_exit": false,
 	"ignored_packages":
 	[
 	]
